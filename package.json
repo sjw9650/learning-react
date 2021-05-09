@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "immer": "^9.0.2",
     "react-virtualized": "^9.22.3"
   }
 }
