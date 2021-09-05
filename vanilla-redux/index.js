@@ -59,7 +59,7 @@ const render = () => {
     counter.innerText = state.counter;
 }
 
-render();
+render(); 
 store.subscribe(render);
 
 divToggle.onclick = () => {
